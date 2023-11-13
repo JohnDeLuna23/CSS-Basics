@@ -2,3 +2,21 @@ h1{
     color: white;
     background-color: black;
 }
+
+#w3schools {
+    background-color: rgb(230, 209, 216,) ;
+}
+#b4{
+    text-decoration: none;
+}
+.button{
+    background-color:33, 31, 31 ;
+    border-radius: 2cm;
+    padding: 3px 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: small;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
