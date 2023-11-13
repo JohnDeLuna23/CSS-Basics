@@ -2,9 +2,13 @@ h1{
     color: white;
     background-color: black;
 }
-
-#w3schools {
-    background-color: rgb(230, 209, 216,) ;
+#p1{
+    color: black;
+    font-style: italic;
+}
+#w3s {
+    color: 187, 191, 122 !important;
+    background-color:green !important;
 }
 #b4{
     text-decoration: none;
@@ -19,4 +23,11 @@ h1{
     font-style: oblique;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 200;
+    
+}
+#footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    font-style: oblique;
+    
 }
